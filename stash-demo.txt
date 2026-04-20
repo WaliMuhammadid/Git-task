@@ -1,0 +1,4 @@
+This file demonstrates git stash and git stash pop
+Commands:
+- git stash: Save uncommitted changes temporarily
+- git stash pop: Restore stashed changes
