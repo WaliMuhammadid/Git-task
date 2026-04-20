@@ -1,0 +1,5 @@
+This file demonstrates git reset and git checkout commands
+Commands:
+- git checkout -- <filename>: Revert file to last committed state
+- git reset --hard HEAD: Discard all local changes
+- git reset --hard origin/main: Reset to match remote branch
