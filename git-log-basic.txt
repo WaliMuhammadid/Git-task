@@ -1,0 +1,4 @@
+git log command demonstration
+This file demonstrates the basic git log command
+Command: git log
+Purpose: Show complete commit history
