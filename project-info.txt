@@ -1,0 +1,12 @@
+Project: Git Task Repository
+Created: April 20, 2026
+Purpose: Learning Git commands and workflow
+Commands demonstrated:
+- git init (repository initialization)
+- git add (staging changes)
+- git commit (saving changes)
+- git push (uploading to remote)
+- git status (checking status)
+- git log (viewing history)
+
+This file shows manual Git workflow in action.
