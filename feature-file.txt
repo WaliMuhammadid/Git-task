@@ -1,0 +1,7 @@
+This file is created in the feature/new-feature branch
+Demonstrates branch management commands:
+- git checkout -b feature/new-feature: Create and switch to new branch
+- git branch: List all local branches
+- git checkout main: Switch back to main branch
+- git branch -d feature/new-feature: Delete branch (safe delete)
+- git push origin feature/new-feature: Push branch to remote
