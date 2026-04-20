@@ -1,0 +1,7 @@
+Git Tags Management
+Commands demonstrated:
+- git tag v1.0.0: Create lightweight tag
+- git tag -a v1.0.0 -m "Release version 1.0.0": Create annotated tag
+- git tag: List all tags
+- git push origin v1.0.0: Push specific tag
+- git push origin --tags: Push all tags
