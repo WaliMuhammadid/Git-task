@@ -1,0 +1,4 @@
+git log --oneline command demonstration
+This file demonstrates the git log --oneline command
+Command: git log --oneline
+Purpose: Show commit history in one line format
