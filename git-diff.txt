@@ -1,0 +1,4 @@
+Git Diff Command Demonstration
+Command: git diff main feature/new-feature
+Purpose: Compare differences between branches before merging
+This helps understand what will change when merging branches.
