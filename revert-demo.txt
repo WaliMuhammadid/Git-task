@@ -1,0 +1,3 @@
+This file demonstrates git revert command
+Command: git revert <commit-hash>
+Purpose: Revert a previous commit by creating a new commit
